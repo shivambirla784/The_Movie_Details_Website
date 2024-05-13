@@ -1,4 +1,5 @@
 # The_Movie_Details_Website
 ReelPulse: Movie Details Website->
 Developed a responsive movie details website using HTML, CSS, and JavaScript, providing information about various movies.
+Use any VPN before browsing this website(USA,UK,etc:Other than INDIA)
 Link:https://shivambirla784.github.io/The_Movie_Details_Website/
